@@ -1,4 +1,4 @@
-
+//题意：找出平方后的尾数还是本身的n位数有几个
 #include <cstdio>
 #include <cstring>
 #include <iostream>
